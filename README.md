@@ -4,7 +4,8 @@
   <tr>
     <td><img src="assets/icons/icon.PNG" alt="DocFinder" style="width: 300px;"/></td>
     <td>
-      <strong>DocFinder</strong> is a doctor booking app template built by <a href="https://atomsbox.com">atomsbox.com</a>. It gives you a modern UI to handle the process of scheduling and managing appointments for both patients and healthcare providers. This template is a starting point for developers looking to create a doctor booking app without building everything from scratch.
+
+DocFinder is a cutting-edge doctor booking app powered by Flutter and crafted by atomsbox.com. It empowers users to discover nearby doctors based on their specialties, enabling seamless communication through in-app chat functionalities. With DocFinder, users can effortlessly schedule appointments, manage their healthcare needs, and experience a modern UI designed for both patients and healthcare providers. This template serves as an ideal starting point for developers seeking to create a robust doctor booking app without starting from scratch.
     </td>
   </tr>
 </table>
