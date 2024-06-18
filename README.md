@@ -17,11 +17,8 @@ Here are some screenshots of the app:
   <tr>
     <td><img src="assets/icons/1.PNG" alt="Screen 1" style="width: 300px;"/></td>
 
-    <td style="padding-left: 20px;><img src="assets/icons/2.PNG" alt="Screen 2" style="width: 300px;"/></td>
+    <td style="padding-left: 20px;> <img src="assets/icons/2.PNG" alt="Screen 2" style="width: 300px;"/></td>
     
-  </tr>
-  <tr>
-    <td><img src="assets/icons/2.PNG" alt="Screen 2" style="width: 300px;"/></td>
   </tr>
     <tr>
     <td><img src="assets/icons/3.PNG" alt="Screen 2" style="width: 300px;"/></td>
