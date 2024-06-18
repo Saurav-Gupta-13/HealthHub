@@ -16,10 +16,18 @@ Here are some screenshots of the app:
 <table>
   <tr>
     <td><img src="assets/icons/1.PNG" alt="Screen 1" style="width: 300px;"/></td>
-    <td><img src="assets/icons/2.PNG" alt="Screen 2" style="width: 300px;"/></td>
+    
   </tr>
   <tr>
-    <td><img src="screenshots/screen3.png" alt="Screen 3" style="width: 300px;"/></td>
-    <td><img src="screenshots/screen4.png" alt="Screen 4" style="width: 300px;"/></td>
+    <td><img src="assets/icons/2.PNG" alt="Screen 2" style="width: 300px;"/></td>
+  </tr>
+    <tr>
+    <td><img src="assets/icons/3.PNG" alt="Screen 2" style="width: 300px;"/></td>
+  </tr>
+    <tr>
+    <td><img src="assets/icons/4.PNG" alt="Screen 2" style="width: 300px;"/></td>
+  </tr>
+    <tr>
+    <td><img src="assets/icons/5.PNG" alt="Screen 2" style="width: 300px;"/></td>
   </tr>
 </table>
