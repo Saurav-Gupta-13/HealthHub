@@ -1,4 +1,4 @@
-package com.example.doctor_booking_app_with_flutter_and_bloc
+package com.example.health_hub
 
 import io.flutter.embedding.android.FlutterActivity
 

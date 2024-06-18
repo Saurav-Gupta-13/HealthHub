@@ -91,7 +91,7 @@ class HomeView extends StatelessWidget {
                   ),
                   child: Icon(
                     Icons.filter_alt_outlined,
-                    color: colorScheme.surfaceVariant,
+                    color: colorScheme.surfaceContainerHighest,
                   ),
                 ),
               ),
