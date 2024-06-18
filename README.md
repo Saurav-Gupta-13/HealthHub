@@ -23,5 +23,3 @@ Here are some screenshots of the app:
     <td><img src="screenshots/screen4.png" alt="Screen 4" style="width: 300px;"/></td>
   </tr>
 </table>
-
-![Hero](screenshots/doctor_booking_app.png)
