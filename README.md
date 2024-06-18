@@ -15,8 +15,8 @@ Here are some screenshots of the app:
 
 <table>
   <tr>
-    <td><img src="assets/icons/1.png" alt="Screen 1" style="width: 300px;"/></td>
-    <td><img src="assets/icons/2.png" alt="Screen 2" style="width: 300px;"/></td>
+    <td><img src="assets/icons/1.PNG" alt="Screen 1" style="width: 300px;"/></td>
+    <td><img src="assets/icons/2.PNG" alt="Screen 2" style="width: 300px;"/></td>
   </tr>
   <tr>
     <td><img src="screenshots/screen3.png" alt="Screen 3" style="width: 300px;"/></td>
